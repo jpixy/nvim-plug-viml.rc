@@ -116,7 +116,7 @@ syntax enable
 "\ }
 
 set background=light
-colorscheme PaperColor
+set colorscheme PaperColor
 
 " Integrated Terminal
 " turn terminal to normal mode with escape
