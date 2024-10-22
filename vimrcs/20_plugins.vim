@@ -10,7 +10,6 @@ call plug#begin("~/.config/nvim/plugged")
 "                         Theme
 " =========================================================
 " Soothing color scheme for your favorite [best] text editor
-Plug 'drewtempelmeyer/palenight.vim'
 Plug 'NLKNguyen/papercolor-theme'
 
 " =========================================================

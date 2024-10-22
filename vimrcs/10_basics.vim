@@ -115,7 +115,7 @@ syntax enable
 "\   'cache_enabled': 1
 "\ }
 
-set background=dark
+set background=light
 colorscheme PaperColor
 
 " Integrated Terminal
