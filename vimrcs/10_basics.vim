@@ -116,7 +116,14 @@ syntax enable
 "\ }
 
 set background=light
-set colorscheme PaperColor
+try
+    colorscheme default
+    " colorscheme purify
+    " colorscheme molokai
+    " colorscheme PaperColor
+    " colorscheme grubox
+catch
+endtry
 
 " Integrated Terminal
 " turn terminal to normal mode with escape
